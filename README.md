@@ -6,4 +6,4 @@
 - Nhận diện khuôn mặt
 - Xử lý hình ảnh
 
-##Deployment: https://xulyanh.onrender.com
+##Deployment: https://xulyanh.onrender.com/
