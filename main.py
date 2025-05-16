@@ -26,7 +26,7 @@ class Main():
         if selected == "Nhận dạng khuôn mặt":
             st.title("Nhận dạng khuôn mặt")
             col1, col2 = st.columns([0.5, 0.5], gap="large")
-            st.write("Nhận dienej khuôn mặt qua model đã train")
+            st.write("Nhận diện khuôn mặt qua model đã train")
             predict.runPredict()
 
         if selected == "Xử lý hình ảnh":
